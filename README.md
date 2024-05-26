@@ -32,6 +32,9 @@ simple interface for the user, click or drag and drop to start processing, user 
 
 
 easy to change models.
+
+
+
 ![image](https://github.com/moaldeaiji1/pothole-detection-using-dash-cam/assets/164229271/c63bafe7-363a-47d3-9116-bc8acfe20add)
 
 
