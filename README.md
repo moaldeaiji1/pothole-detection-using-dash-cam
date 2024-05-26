@@ -54,6 +54,8 @@ Interface showing progress videos, percentage of each video, and buttons to canc
 
 
 PDF generated with GPS information.
+
+
 ![image](https://github.com/moaldeaiji1/pothole-detection-using-dash-cam/assets/164229271/65872713-b12a-4ea5-8b05-784697f12f2d)
 
 
@@ -64,6 +66,15 @@ PDF generated with GPS information.
 
 # limtaion 
 1-Most images used to train the model were not taken with a dash cam angle, hence it would be difficult to detect.
+
+2-The reflection will cause random detection 
+
+![image](https://github.com/moaldeaiji1/pothole-detection-using-dash-cam/assets/164229271/53d89522-f5e2-49d3-aa60-469d13f914d6)
+
+
+3-The qualty of the images need to be improved 
+
+
 
 
 
